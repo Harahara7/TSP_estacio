@@ -1,0 +1,124 @@
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\ApplicationInsights.config
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\csc.exe
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\vbc.exe
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\VBCSCompiler.exe
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Web.dll.config
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Web.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Web.pdb
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.Web.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.ApplicationInsights.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.Web.xml
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.ApplicationInsights.xml
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.dll
+c:\users\aluno.estacioacad\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.pdb
+C:\Users\Aluno.ESTACIOACAD\documents\visual studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\ApplicationInsights.config
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\csc.exe
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\vbc.exe
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Web.dll.config
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Web.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Web.pdb
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.Web.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.Web.xml
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.csproj.CopyComplete
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.pdb
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_controle.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Entidade.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_controle.pdb
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Entidade.pdb
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Modelo.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Modelo.pdb
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Web\bin\MySql.Data.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_controle.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Entidade.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Modelo.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\MySql.Data.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_controle.pdb
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Entidade.pdb
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Modelo.pdb
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\ApplicationInsights.config
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\csc.exe
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\vbc.exe
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Web.dll.config
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Web.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Web.pdb
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.Web.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_controle.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Entidade.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Modelo.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\MySql.Data.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_controle.pdb
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Entidade.pdb
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.Web.xml
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\bin\TSP_Estacio_Modelo.pdb
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.csprojResolveAssemblyReference.cache
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.csproj.CoreCompileInputs.cache
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.csproj.CopyComplete
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.pdb

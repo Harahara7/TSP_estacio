@@ -1,0 +1,17 @@
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Entidade\bin\Debug\TSP_Estacio_Entidade.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Entidade\bin\Debug\TSP_Estacio_Entidade.pdb
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.pdb
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Entidade\bin\Debug\TSP_Estacio_Entidade.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Entidade\bin\Debug\TSP_Estacio_Entidade.pdb
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.csprojResolveAssemblyReference.cache
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.pdb
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Entidade\bin\Debug\TSP_Estacio_Entidade.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Entidade\bin\Debug\TSP_Estacio_Entidade.pdb
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.csprojResolveAssemblyReference.cache
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.csproj.CoreCompileInputs.cache
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.pdb

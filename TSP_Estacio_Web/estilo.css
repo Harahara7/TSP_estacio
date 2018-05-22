@@ -1,0 +1,24 @@
+﻿/*body {
+    background-image: url(./imagens/textura-de-papel-amarrotada-branca-para-o-fundo_1373-159.jpg)
+}*/
+
+ButtonField{
+    width:32px;
+    height:32px;
+}
+
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+h1{
+    display: inline-block;
+}
+
+.rotulo{
+    display: inline-block;
+    width: 100px;
+}

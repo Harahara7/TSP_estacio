@@ -1,0 +1,34 @@
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_controle.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_controle.pdb
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Entidade.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Modelo.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Entidade.pdb
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Modelo.pdb
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.csproj.CopyComplete
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.dll
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.pdb
+C:\Users\bruno\Desktop\TSP_Estacio\TSP_Estacio_controle\bin\Debug\MySql.Data.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_controle.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_controle.pdb
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Entidade.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Modelo.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_controle\bin\Debug\MySql.Data.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Entidade.pdb
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Modelo.pdb
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.dll
+C:\Users\aluno.ESTACIOACAD\Documents\Visual Studio 2015\Projects\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.pdb
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_controle.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_controle.pdb
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Entidade.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Modelo.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\bin\Debug\MySql.Data.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Entidade.pdb
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\bin\Debug\TSP_Estacio_Modelo.pdb
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.csprojResolveAssemblyReference.cache
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.csproj.CoreCompileInputs.cache
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.csproj.CopyComplete
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.dll
+C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_controle\obj\Debug\TSP_Estacio_controle.pdb
