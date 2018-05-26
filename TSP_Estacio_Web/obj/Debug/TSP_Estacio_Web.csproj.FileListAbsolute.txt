@@ -122,3 +122,45 @@ C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\obj\Debug
 C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.csproj.CopyComplete
 C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.dll
 C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.pdb
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\ApplicationInsights.config
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\csc.exe
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\vbc.exe
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\TSP_Estacio_Web.dll.config
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\TSP_Estacio_Web.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\TSP_Estacio_Web.pdb
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.AI.Web.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\TSP_Estacio_controle.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\TSP_Estacio_Entidade.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\TSP_Estacio_Modelo.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\MySql.Data.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\TSP_Estacio_controle.pdb
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\TSP_Estacio_Entidade.pdb
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.AI.Web.xml
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\bin\TSP_Estacio_Modelo.pdb
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.csprojAssemblyReference.cache
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.csproj.CoreCompileInputs.cache
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.csproj.CopyComplete
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Web\obj\Debug\TSP_Estacio_Web.pdb

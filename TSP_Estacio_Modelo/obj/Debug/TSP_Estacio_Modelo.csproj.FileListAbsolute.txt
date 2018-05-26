@@ -26,3 +26,13 @@ C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Modelo\obj\De
 C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Modelo\obj\Debug\TSP_Estacio_Modelo.csproj.CopyComplete
 C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Modelo\obj\Debug\TSP_Estacio_Modelo.dll
 C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Modelo\obj\Debug\TSP_Estacio_Modelo.pdb
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Modelo\bin\Debug\TSP_Estacio_Modelo.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Modelo\bin\Debug\TSP_Estacio_Modelo.pdb
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Modelo\bin\Debug\MySql.Data.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Modelo\bin\Debug\TSP_Estacio_Entidade.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Modelo\bin\Debug\TSP_Estacio_Entidade.pdb
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Modelo\obj\Debug\TSP_Estacio_Modelo.csprojAssemblyReference.cache
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Modelo\obj\Debug\TSP_Estacio_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Modelo\obj\Debug\TSP_Estacio_Modelo.csproj.CopyComplete
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Modelo\obj\Debug\TSP_Estacio_Modelo.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Modelo\obj\Debug\TSP_Estacio_Modelo.pdb

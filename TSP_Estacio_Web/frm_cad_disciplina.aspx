@@ -9,12 +9,12 @@
 
         <div id="div_grid" runat="server">
 
-        <asp:GridView class="table" ID="gvDisciplina" DataKeyNames="id" runat="server" OnRowCommand="gvDisciplina_RowCommand" BackColor="#DEBA84" BorderColor="#DEBA84" BorderStyle="None" BorderWidth="1px" CellPadding="3" CellSpacing="2">
+        <asp:GridView class="table" ID="gvDisciplina" DataKeyNames="id" runat="server" OnRowCommand="gvDisciplina_RowCommand"  >
             <Columns>
-                <asp:ButtonField  ItemStyle-Width="20px" ItemStyle-Height="20px" ButtonType="Image" ImageUrl="../imagens/edit.png" CommandName="Editar"/>
-                <asp:ButtonField  ItemStyle-Width="20px" ItemStyle-Height="20px" ButtonType="Image" ImageUrl="../imagens/delete.jpg" CommandName="Excluir"/>
+                <asp:ButtonField ControlStyle-Width="20px" HeaderStyle-Width="20px" ButtonType="Image" ImageUrl="../imagens/edit.png"  CommandName="Editar"/>
+                <asp:ButtonField ControlStyle-Width="20px" HeaderStyle-Width="20px" ButtonType="Image" ImageUrl="../imagens/delete.jpg" CommandName="Excluir"/>
             </Columns>
-            <FooterStyle BackColor="#F7DFB5" ForeColor="#8C4510" />
+          <%--  <FooterStyle BackColor="#F7DFB5" ForeColor="#8C4510" />
             <HeaderStyle BackColor="#A55129" Font-Bold="True" ForeColor="White" />
             <PagerStyle ForeColor="#8C4510" HorizontalAlign="Center" />
             <RowStyle BackColor="#FFF7E7" ForeColor="#8C4510" />
@@ -22,7 +22,7 @@
             <SortedAscendingCellStyle BackColor="#FFF1D4" />
             <SortedAscendingHeaderStyle BackColor="#B95C30" />
             <SortedDescendingCellStyle BackColor="#F1E5CE" />
-            <SortedDescendingHeaderStyle BackColor="#93451F" />
+            <SortedDescendingHeaderStyle BackColor="#93451F" />--%>
         </asp:GridView>
 
         </div>

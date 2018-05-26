@@ -15,3 +15,9 @@ C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Entidade\obj\
 C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.csproj.CoreCompileInputs.cache
 C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.dll
 C:\Users\Yusuke\Documents\Projetos ASP.NET\TSP_Estacio\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.pdb
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Entidade\bin\Debug\TSP_Estacio_Entidade.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Entidade\bin\Debug\TSP_Estacio_Entidade.pdb
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.csprojAssemblyReference.cache
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.csproj.CoreCompileInputs.cache
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.dll
+C:\Users\Jhonathas\Documents\Git\TSP_Estacio_Entidade\obj\Debug\TSP_Estacio_Entidade.pdb
